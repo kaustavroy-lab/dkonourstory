@@ -872,37 +872,6 @@ section.lazy-placeholder:after {
   transition: 0.2s background ease-in-out;
   background: linear-gradient(to left, #554346, #45505b) !important;
 }
-.cid-rP3VAcTstz {
-  padding-top: 0px;
-  padding-bottom: 0px;
-  background-color: #ffffff;
-}
-.cid-rP3VAcTstz .google-map {
-  height: 25rem;
-  position: relative;
-}
-.cid-rP3VAcTstz .google-map iframe {
-  height: 100%;
-  width: 100%;
-}
-.cid-rP3VAcTstz .google-map [data-state-details] {
-  color: #6b6763;
-  font-family: Montserrat;
-  height: 1.5em;
-  margin-top: -0.75em;
-  padding-left: 1.25rem;
-  padding-right: 1.25rem;
-  position: absolute;
-  text-align: center;
-  top: 50%;
-  width: 100%;
-}
-.cid-rP3VAcTstz .google-map[data-state] {
-  background: #e9e5dc;
-}
-.cid-rP3VAcTstz .google-map[data-state="loading"] [data-state-details] {
-  display: none;
-}
 .cid-rPy5rJERpM {
   padding-top: 90px;
   padding-bottom: 90px;
